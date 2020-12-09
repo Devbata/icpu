@@ -31,4 +31,4 @@ if NRnumGuesses < BiNumGuesses:
         NRnumGuesses, 'iterations, while the bisection method found the answer with',
         BiNumGuesses, 'iterations')
 else:
-    print('damn')
+    print('You have defeated science by picking x=4')
